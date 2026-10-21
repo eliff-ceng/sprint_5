@@ -1,0 +1,21 @@
+# Sprint 5 Kontrol Listesi
+
+- [ ] Sprint 4 çalışıyor, yeni frontend klasörü açılmadı.
+- [ ] `src/components/layout/` altında `Header.tsx`, `Navigation.tsx`, `Footer.tsx` var.
+- [ ] `src/components/events/` altında `EventCard.tsx`, `EventList.tsx`, `EventFilter.tsx`, `EventDetail.tsx` var.
+- [ ] `src/components/forms/EventForm.tsx` var.
+- [ ] `src/types/page.ts` içinde `PageName` var.
+- [ ] `src/utils/format-date.ts` içinde `formatDate` var.
+- [ ] Tüm bileşen dosyalarının adı büyük harfle başlıyor.
+- [ ] Tüm bileşenlerde `export default` var.
+- [ ] Props alan bileşenlerin props tipi `interface` ile yazıldı.
+- [ ] `EventList` içinde `key={event.id}` kullanılıyor.
+- [ ] State (`page`, `selectedId`, `searchText`, `category`) App'te kaldı.
+- [ ] `atölye` araması 2 kart gösteriyor.
+- [ ] `xyz` aramasında bulunamadı mesajı çıkıyor.
+- [ ] Detay sayfasındaki iki buton çalışıyor.
+- [ ] Ekle/Güncelle aynı `EventForm` bileşenini kullanıyor.
+- [ ] `npm run build` hatasız tamamlanıyor.
+- [ ] Vercel Root Directory `frontend`, Preset `Vite`.
+- [ ] Git commit mesajı `Complete sprint 5 React components`.
+- [ ] Tag `sprint-05`.
